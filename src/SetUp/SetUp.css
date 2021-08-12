@@ -1,0 +1,10 @@
+.bars {
+  text-align: center;
+}
+
+.array-value {
+  width: 5px;
+  display: inline-block;
+  background-color: aqua;
+  margin: 0 1px;
+}
