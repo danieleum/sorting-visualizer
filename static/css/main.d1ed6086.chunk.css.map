@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/SetUp/SetUp.css"],"names":[],"mappings":"AAAA,MACE,iBACF,CAEA,aACE,SAAU,CACV,oBAAqB,CACrB,qBAAsB,CACtB,YACF","file":"main.d1ed6086.chunk.css","sourcesContent":[".bars {\n  text-align: center;\n}\n\n.array-value {\n  width: 5px;\n  display: inline-block;\n  background-color: aqua;\n  margin: 0 1px;\n}"]}
